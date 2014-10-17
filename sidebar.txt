@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yuq:home|Door43 (yuq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yuq|d43-yuq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yuq/archive/master.zip|d43-yuq.zip]]
+
+**Recent Changes**
+{{changes>ns = yuq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yuq|Ethnologue data]]
+
